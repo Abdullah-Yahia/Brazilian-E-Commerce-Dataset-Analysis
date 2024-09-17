@@ -6,6 +6,9 @@ In addition to the main dataset, we have also made available a geolocation datas
 
 Please note that this dataset is real commercial data, but it has been anonymized to protect privacy. Any references to the companies and partners in the review text have been replaced with the names of Game of Thrones great houses for confidentiality.
 ![](https://github.com/Abdullah-Yahia/Brazilian-E-Commerce-Dataset-Analysis/blob/main/Olist.png)
+
+#### Dashboard link: https://project.novypro.com/X46Ut5
+
 # Dataset Details
 
 - **Number of Orders:** 100,000
